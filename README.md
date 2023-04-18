@@ -1,10 +1,10 @@
-# 링크
-https://zero-drink.vercel.app/
+# ZeroDrink
+html-css 기초 반응형 사이트 제작해보기
 
 <br>
 
-# ZeroDrink
-html-css 기초 반응형 사이트 제작해보기
+## 링크
+https://zero-drink.vercel.app/
 
 <br>
 
@@ -20,5 +20,15 @@ html-css 기초 반응형 사이트 제작해보기
 
 <br>
 
-![image](https://user-images.githubusercontent.com/105267838/232790338-e49952d0-f2db-4745-bd2b-ca263304727e.png)
+## 기능
+- 사이트 크기를 조절하면 글씨 크기와 배경 색깔이 바뀝니다.
+
+<br>
+
+![getMaximize](https://user-images.githubusercontent.com/105267838/232800501-9f0d1c26-c7b4-4389-ab81-a391a25993a8.gif)
+
+<br>
+
+![getMinimize](https://user-images.githubusercontent.com/105267838/232800686-26b26bf9-ed6d-486b-9d36-d322cccf1f99.gif)
+
 
