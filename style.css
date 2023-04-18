@@ -67,9 +67,20 @@ main{
     text-align: center;
 }
 
-@media (max-width: 970px){
+@media (max-width: 1000px){
     .card{
         background: #f3cf43;
     }
+    .card > span {
+        font-size: 1.5rem;
+    }
 }
 
+@media (max-width: 600px) {
+.card {
+    background: #dd540e;
+}
+.card > span {
+    font-size: 0.6rem;
+}
+}
