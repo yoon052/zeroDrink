@@ -13,7 +13,8 @@
 </header>
 <main>
 
-    <div class = "sidebar">
+    <div class = "sidebar"  id="sidebar">
+        <button type="button" class="add-button" id="addItem">추가</button>
         <span>티즐</span>
         <span>펩시</span>
         <span>밀키스</span>
@@ -21,7 +22,7 @@
         <span>탐스</span>
     </div>
 
-    <section class = "container">
+    <section class = "container" id="container">
         <div class="card">
             <img src="./images/티즐제로자몽블랙티.jpg">
             <span>티즐제로자몽블랙티</span>
@@ -42,9 +43,22 @@
             <img src="./images/탐스제로.jpg">
             <span>탐스제로</span>
         </div>
-    </section>
-    
+    </section>   
 </main>
-    
-</body>
+
+    <div class="modal-background" id="modal">
+        <form class="modal" id="addItemForm">
+            <span class="modal-close" id="closeModal">X</span>
+            <label for="name" class="label">이름</label>
+            <input id="name" type="text" placeholder="실론티제로" class="input" maxlength="30" required/>
+            <label for="image" class="label">이미지</label>
+            <input id="image" type="text" placeholder="URL" class="input" required />
+            <label for="content" class="label">내용</label>
+            <input id="content" type="text" placeholder="실론티와 똑같은 맛이지만 칼로리는 제로😋" class="input" required />
+            <button type="submit" class="submit-button">저장</button>
+        </form>
+    </div>
+    <script src="script/modal.js"></script>
+    <script src="script/addItem.js"></script>        
+    </body>
 </html>
