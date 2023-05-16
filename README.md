@@ -31,11 +31,15 @@ https://zero-drink.vercel.app/
 
 ![getMinimize](https://user-images.githubusercontent.com/105267838/232800686-26b26bf9-ed6d-486b-9d36-d322cccf1f99.gif)
 
-<br>
+<br><br>
+
+- 추가 버튼을 누르면 모달창이 열립니다. 모달창의 닫기 버튼을 누르면 모달창이 닫깁니다.
 
 ![modal](https://github.com/yoon052/zeroDrink/blob/main/docs/modal.gif)
 
-<br>
+<br><br>
+
+- 모달창에 음료수의 이름, 이미지 링크, 내용을 기입하고 저장 버튼을 누르면 기입한 정보들이 페이지에 추가됩니다.
 
 ![addItem](https://github.com/yoon052/zeroDrink/blob/main/docs/addItem.gif)
 
