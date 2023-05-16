@@ -31,4 +31,11 @@ https://zero-drink.vercel.app/
 
 ![getMinimize](https://user-images.githubusercontent.com/105267838/232800686-26b26bf9-ed6d-486b-9d36-d322cccf1f99.gif)
 
+<br>
+
+![modal](https://github.com/yoon052/zeroDrink/blob/main/docs/modal.gif)
+
+<br>
+
+![addItem](https://github.com/yoon052/zeroDrink/blob/main/docs/addItem.gif)
 
